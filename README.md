@@ -22,4 +22,4 @@ Github Stats | Languages
 
 CKA | CKAD | JSNAD | JSNSD
 :--: | :--: | :--: | :--:
-![CKA](https://www.youracclaim.com/earner/earned/badge/d242d39e-0493-4bba-8d9d-cf279daaed7d) | ![CKAD](https://images.youracclaim.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png) | ![JSNAD](https://images.youracclaim.com/size/340x340/images/71421f32-bf14-4bfa-aec1-31af1d6de2ff/jsnad_10.17.19.png) | ![JSNSD](https://images.youracclaim.com/size/340x340/images/dcfa6668-7bac-4a86-990d-ca8770e8c32f/jsnsd_10.17.19.png)
+![CKA](https://d.pr/i/biywP9+) | ![CKAD](https://d.pr/i/gYyHGE+) | ![JSNAD](https://d.pr/i/T8jjUa+) | ![JSNSD](https://d.pr/i/rIKcR1+)
