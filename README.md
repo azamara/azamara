@@ -22,4 +22,4 @@ Github Stats | Languages
 
 CKA | CKAD | JSNAD | JSNSD
 :--: | :--: | :--: | :--:
-![CKA](https://d.pr/i/biywP9+) | ![CKAD](https://d.pr/i/gYyHGE+) | ![JSNAD](https://d.pr/i/T8jjUa+) | ![JSNSD](https://d.pr/i/zhewxW+)
+![CKA](https://d.pr/i/biywP9+) | ![CKAD](https://d.pr/i/gYyHGE+) | ![JSNAD](https://d.pr/i/OjVO8I+) | ![JSNSD](https://d.pr/i/zhewxW+)
