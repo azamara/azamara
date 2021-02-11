@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub followers](https://img.shields.io/github/followers/Harman-12?label=Followers&style=social)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harman-12)
+![GitHub followers](https://img.shields.io/github/followers/azamara?label=Followers&style=social)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=azamara)
 
 <div>
   <a href="https://codetrace.com/users/azamara" target="_blank"><img src="https://codetrace.com/widget/azamara" width="220" height="50" /></a>
