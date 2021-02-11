@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://d.pr/i/1uBz4U+" width="36px">
 
 <!--
 **azamara/azamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
 Github Stats | Languages
 :--: | :--:
-[![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/azamara) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=24&layout=compact&theme=dracula)](https://github.com/azamara)
+[![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/azamara) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=24&layout=compact)](https://github.com/azamara)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=flat&no-frame=true&margin-w=30" />
+</div>
 
 CKA | CKAD | JSNAD | JSNSD
 :--: | :--: | :--: | :--:
