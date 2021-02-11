@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <a href="https://codetrace.com/users/azamara" target="_blank"><img src="https://codetrace.com/widget/azamara" width="220" height="50" /></a>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=flat&no-frame=true&margin-w=30" />
+</div>
 
 Github Stats | Languages
 :--: | :--:
 [![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/azamara) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=24&layout=compact)](https://github.com/azamara)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=flat&no-frame=true&margin-w=30" />
-</div>
 
 CKA | CKAD | JSNAD | JSNSD
 :--: | :--: | :--: | :--:
