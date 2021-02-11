@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://codetrace.com/users/azamara" target="_blank"><img src="https://codetrace.com/widget/azamara" width="220" height="50" /></a>
+![GitHub followers](https://img.shields.io/github/followers/Harman-12?label=Followers&style=social)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harman-12)
+
+<div>
+  <a href="https://codetrace.com/users/azamara" target="_blank"><img src="https://codetrace.com/widget/azamara" width="220" height="50" /></a>
+</div>
+
+CKA | CKAD | JSNAD | JSNSD | ...
+:--: | :--: | :--: | :--: | :--:
+<img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"> | <img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"> | <img src="https://d.pr/i/OjVO8I+" width="114px" alt="JSNAD"> | <img src="https://d.pr/i/zhewxW+" width="114px" alt="JSNSD"> | <div style="font-size: 36px;">🤔</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=flat&no-frame=true&margin-w=30" />
@@ -25,7 +34,3 @@ Github Stats | Languages
 :--: | :--:
 [![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/azamara) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=24&layout=compact)](https://github.com/azamara)
 
-
-CKA | CKAD | JSNAD | JSNSD | ...
-:--: | :--: | :--: | :--: | :--:
-<img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"> | <img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"> | <img src="https://d.pr/i/OjVO8I+" width="114px" alt="JSNAD"> | <img src="https://d.pr/i/zhewxW+" width="114px" alt="JSNSD"> | <div style="font-size: 36px;">🤔</div>
