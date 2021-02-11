@@ -22,13 +22,13 @@ Here are some ideas to get you started:
   <a href="https://codetrace.com/users/azamara" target="_blank"><img src="https://codetrace.com/widget/azamara" width="220" height="50" /></a>
 </div>
 
-CKA | CKAD | JSNAD | JSNSD | ...
-:--: | :--: | :--: | :--: | :--:
-<img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"> | <img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"> | <img src="https://d.pr/i/OjVO8I+" width="114px" alt="JSNAD"> | <img src="https://d.pr/i/zhewxW+" width="114px" alt="JSNSD"> | <div style="font-size: 36px;">🤔</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=flat&no-frame=true&margin-w=30" />
 </div>
+
+CKA | CKAD | JSNAD | JSNSD | ...
+:--: | :--: | :--: | :--: | :--:
+<img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"> | <img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"> | <img src="https://d.pr/i/OjVO8I+" width="114px" alt="JSNAD"> | <img src="https://d.pr/i/zhewxW+" width="114px" alt="JSNSD"> | <div style="font-size: 36px;">🤔</div>
 
 Github Stats | Languages
 :--: | :--:
