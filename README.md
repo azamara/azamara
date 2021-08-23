@@ -29,7 +29,7 @@ Github Stats | Languages
 
 CKA | CKAD | JSNAD | JSNSD | ...
 :--: | :--: | :--: | :--: | :--:
-<img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"> | <img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"> | <img src="https://images.credly.com/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" width="114px" alt="JSNAD"> | <img src="https://images.credly.com/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" width="114px" alt="JSNSD"> | <div style="font-size: 36px;">🤔</div>
+<a href="https://www.credly.com/badges/d242d39e-0493-4bba-8d9d-cf279daaed7d"><img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"/></a> | <a href="https://www.credly.com/badges/b5d5aa65-2432-47df-9948-a6aa8d0c3766"><img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"/></a> | <a href="https://www.credly.com/badges/cf9c07bb-3c18-456f-b425-d5497a7c1778"><img src="https://images.credly.com/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" width="114px" alt="JSNAD"/></a> | <a href="https://www.credly.com/badges/52a401c6-1046-4c71-9b16-5b4c17c37a93"><img src="https://images.credly.com/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" width="114px" alt="JSNSD"/></a> | <div style="font-size: 36px;">🤔</div>
 
 ---
 
