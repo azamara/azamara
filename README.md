@@ -37,3 +37,24 @@ CKA | CKAD | JSNAD | JSNSD | ...
 :--: | :--: | :--: | :--: | :--:
 <img src="https://d.pr/i/biywP9+" width="128px" alt="CKA"> | <img src="https://d.pr/i/gYyHGE+" width="128px" alt="CKAD"> | <img src="https://images.credly.com/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" width="114px" alt="JSNAD"> | <img src="https://images.credly.com/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" width="114px" alt="JSNSD"> | <div style="font-size: 36px;">🤔</div>
 
+---
+
+
+<div align="center">
+  <img src="https://codetrace.com/static/images/badges/front-end.svg" />
+  <img src="https://codetrace.com/static/images/badges/mobile-dev.svg" />
+  <img src="https://codetrace.com/static/images/badges/back-end.svg" />
+  <img src="https://codetrace.com/static/images/badges/unit-testing.svg" />
+  <img src="https://codetrace.com/static/images/badges/test-automation.svg" />
+</div>
+
+<div align="center">
+  <img width="96" src="https://codetrace.com/static/images/languages/typescript.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/javascript.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/kotlin.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/swift.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/go.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/python.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/java.svg" />
+  <img width="96" src="https://codetrace.com/static/images/languages/shell.svg" />
+</div>
