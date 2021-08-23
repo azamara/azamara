@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://codetrace.com/users/azamara" target="_blank"><img src="https://codetrace.com/widget/azamara" width="220" height="50" /></a>
-</div>
-
-<br/>
-
-<div>
   <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=dracula&no-frame=true&margin-w=30" />
 </div>
 
