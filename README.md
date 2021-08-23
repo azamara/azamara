@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=flat&no-frame=true&margin-w=30" />
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=dracula&no-frame=true&margin-w=30" />
 </div>
+
+---
 
 Github Stats | Languages
 :--: | :--:
-[![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/azamara) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=24&layout=compact)](https://github.com/azamara)
+[![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=FF79C6&text_color=9f9f9f&bg_color=151515)](https://github.com/azamara) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=24&layout=compact&show_icons=true&title_color=fff&icon_color=FF79C6&text_color=9f9f9f&bg_color=151515)](https://github.com/azamara)
 
 ---
 
