@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 Github Stats | Languages
 :--: | :--:
-![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&show_icons=true&count_private=true&bg_color=0,06b6d4,3b82f6&title_color=fff&text_color=fff&icon_color=fff) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=8&layout=compact&title_color=fff&icon_color=fff&text_color=fff&bg_color=90,06b6d4,3b82f6)](https://github.com/azamara)
+![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&show_icons=true&count_private=true&bg_color=0,2E3440,2E3440&title_color=80A1C1&text_color=fff&icon_color=80A1C1) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=8&count_private=true&layout=compact&title_color=80A1C1&icon_color=80A1C1&text_color=fff&bg_color=0,2E3440,2E3440)](https://github.com/azamara)
