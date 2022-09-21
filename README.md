@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=azamara&theme=nord&no-frame=true&margin-w=30" />
 </p>
 
-Github Stats | Languages
+Github Stats | Streak Stats
 :--: | :--:
-![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&show_icons=true&count_private=true&bg_color=0,2E3440,2E3440&title_color=80A1C1&text_color=fff&icon_color=80A1C1) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamara&langs_count=8&count_private=true&layout=compact&title_color=80A1C1&icon_color=80A1C1&text_color=fff&bg_color=0,2E3440,2E3440)](https://github.com/azamara)
+![William Kim's github stats](https://github-readme-stats.vercel.app/api?username=azamara&show_icons=true&count_private=true&bg_color=0,2E3440,2E3440&title_color=80A1C1&text_color=fff&icon_color=80A1C1) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azamara&theme=nord)](https://git.io/streak-stats)
