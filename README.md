@@ -33,10 +33,10 @@ Here are some ideas to get you started:
   <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/typescript.svg" /></a>
   <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/javascript.svg" /></a>
   <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/rust.svg" /></a>
-  <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/shell.svg" /></a>
+  <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/go.svg" /></a>
   <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/swift.svg" /></a>
   <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/kotlin.svg" /></a>
-  <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/go.svg" /></a>
+  <a href="https://codetrace.com/users/azamara" target="_blank"><img width="96" src="https://codetrace.com/static/images/languages/shell.svg" /></a>
 </div>
 
 ---
